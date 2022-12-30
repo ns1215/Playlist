@@ -10,7 +10,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Somebody to you", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Somebody to you", filePath: "songs/1.mp3", coverPath: "covers/1.jfif"},
     {songName: "Count on me", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Love Me Like You Do", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "I'm Only Me When I'm With You", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
